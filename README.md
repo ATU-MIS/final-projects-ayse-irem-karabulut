@@ -32,5 +32,4 @@ Diğer Kütüphaneler: datetime, winsound (Windows uyarı sesleri için), os.
 🚀 Kurulum ve Çalıştırma
 Proje standart Python kütüphanelerini kullanır, harici bir yükleme gerektirmez (Windows işletim sistemi önerilir).
 
-Projeyi bilgisayarınıza indirin veya klonlayın:
-git clone [https://github.com/KULLANICI_ADIN/digital-medicine-assistant.git](https://github.com/KULLANICI_ADIN/digital-medicine-assistant.git)
+
